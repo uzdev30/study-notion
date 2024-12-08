@@ -240,7 +240,6 @@ const Footer = () => {
               <span> Made with </span>
 
               <Link
-                to="https://github.com/Quvonchbek0101"
                 target="__blank"
                 className="text-white hover:underline mr-1"
               >
